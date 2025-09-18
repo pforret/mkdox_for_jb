@@ -1,1 +1,1 @@
-rootProject.name = "JetBrainsButton"
+rootProject.name = "llm-brains"
